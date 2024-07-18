@@ -13,9 +13,8 @@
 
 
 
+![](https://visitor-badge.glitch.me/badge?page_id=Theresa-dot.Theresa-dot)
 
-
-</br>
 👋 Hi, I’m Theresa Jacob.
 
 🕸I am studying Computer Science and Engineering at VIT, Vellore.
