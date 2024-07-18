@@ -1,5 +1,5 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Theresa Jacob here! 
-<a href="https://www.linkedin.com/in/Theresa-dot/](https://www.linkedin.com/in/theresa-jacob/">
+<a href="https://www.linkedin.com/in/Theresa-dot/">
   <img align="left" alt="Harsh's Linkedin" width="20px" src="https://cdn.pixabay.com/photo/2016/11/18/11/16/social-1834011_1280.png" />
 </a>
 <a href="https://www.instagram.com/_theresa_tj/">
